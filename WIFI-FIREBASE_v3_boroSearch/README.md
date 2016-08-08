@@ -3,3 +3,5 @@ This is a web application incorporating the NYC OPEN DATA API to help user's fin
 WIFI-NYC-HOME.png
 
 ![alt tag](screenshots/WIFI-NYC-HOME)
+
+![alt tag](http://screenshots/WIFI-NYC-HOME)
